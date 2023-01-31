@@ -21,6 +21,12 @@ only available on macOS.
 Many workflows today still require Adobe Photoshop and it is only available as a
 subscription now.
 
+## www-strict
+A collection of patches to existing World Wide Web standards that make
+previously-undefined behavior normative such as [The CSS 2.1 processing
+model][4].
+
 [1]: https://bellard.org/tcc/
 [2]: https://en.wikipedia.org/wiki/Client-side_prediction
 [3]: https://en.wikipedia.org/wiki/Sketch_(software)
+[4]: https://www.w3.org/TR/2011/REC-CSS2-20110607/intro.html#processing-model
